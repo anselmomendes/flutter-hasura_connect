@@ -1,0 +1,1 @@
+flutter-hasura_connect
